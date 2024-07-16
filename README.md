@@ -1,6 +1,8 @@
 # Advanced-Super-Market-Report-using-Power-BI
 This project help to improve optimize marketing strategies, and enhance overall business performance.Enable stakeholders to make informed decisions based on real-time insights and predictions &amp; gain a competitive edge by leveraging advanced analytics to anticipate market trends and customer demands.
 
+![super market analysis screenshot](https://github.com/user-attachments/assets/d7fc2ac0-0479-452c-a9c6-5d5882ca3ef6)
+
 Objectives:
 1. Sales Performance Analysis: Track and visualize sales trends over time, across different product categories, and geographical regions(Cities).
    
